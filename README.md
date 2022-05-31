@@ -2,6 +2,12 @@
 
 ---
 
+- I am a Computer & Software Engineer 💻
+- Mostly working on Web Technologies 🕸
+- for more feel free to check my personal page -> [📄](https://orkunolcal.github.io/)
+
+
+<!--
 ### `Tech Stack:`
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -22,7 +28,6 @@
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=Gitlab&logoColor=white)
 
-<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -33,5 +38,3 @@
 -->
 
 ---
-
-> for more feel free to check my personal [page](https://orkunolcal.github.io/)

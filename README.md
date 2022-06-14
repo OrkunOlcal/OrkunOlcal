@@ -2,7 +2,7 @@
 
 ---
 
-- I am a Computer & Software Engineer 💻
+- I'm a Computer & Software Engineer 💻
 - I mostly working on Web Technologies 🕸
 - for more feel free to check my personal page -> [📄](https://orkunolcal.github.io/)
 
